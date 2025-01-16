@@ -1,4 +1,10 @@
 ## Hi there 👋
+
+### Tech Stack:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-61DAFB?style=flat-square&logo=bloc&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact)
 <!--
