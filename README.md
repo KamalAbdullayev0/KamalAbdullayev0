@@ -5,7 +5,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Bloc](https://img.shields.io/badge/Bloc-61DAFB?style=flat-square&logo=bloc&logoColor=white)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.vercel.app?user=KamalAbdullayev0&theme=windows-dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact)
 <!--
