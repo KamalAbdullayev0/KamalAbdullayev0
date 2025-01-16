@@ -6,7 +6,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Bloc](https://img.shields.io/badge/Bloc-61DAFB?style=flat-square&logo=bloc&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.vercel.app?user=KamalAbdullayev0&theme=windows-dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact)
 <!--
 **KamalAbdullayev0/KamalAbdullayev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
