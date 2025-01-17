@@ -46,7 +46,7 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
