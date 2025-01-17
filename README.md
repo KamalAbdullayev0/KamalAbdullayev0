@@ -28,11 +28,11 @@
   
   <!-- iOS technologies -->
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Objective--C-333333?style=for-the-badge&logo=objective-c&logoColor=white" alt="Objective-C"/>
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/SwiftUI-FF6400?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/UIKit-00A0D2?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
   <img src="https://img.shields.io/badge/CoreData-0085A3?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data"/>
+  <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="ARKit"/>
 </p>
 
 ---
