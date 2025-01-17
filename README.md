@@ -39,18 +39,14 @@
 </p>
 
 #### 🔥 Streaks & Top Languages:
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-  <div style="flex: 1;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.vercel.app?user=KamalAbdullayev0&theme=windows-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak Stats" height="400"/>
-    </a>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=windows-dark&hide_border=true&border_radius=10&mode=weekly" alt="Top Languages" height="400"/>
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.vercel.app?user=KamalAbdullayev0&theme=windows-dark&hide_border=true&border_radius=6&mode=weekly" alt="GitHub Streak Stats" height="180"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  </a>
+</p>
 
 ---
 
