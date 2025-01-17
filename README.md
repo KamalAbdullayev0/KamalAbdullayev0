@@ -43,7 +43,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.vercel.app?user=KamalAbdullayev0&theme=windows-dark&hide_border=true&border_radius=6&mode=weekly" alt="GitHub Streak Stats" height="180"/>
   </a>
-  <span>&nbsp;&nbsp;&nbsp;</span> <!-- Добавлено пространство -->
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Добавлено пространство -->
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
   </a>
