@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **1 + 1 = 10** (in binary 😄).
 - 📫 How to reach me:
   - <img src="https://img.icons8.com/color/48/000000/email.png" width="20px"/> **Email**: abdullayevkamal994@gmail.com  
-  - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="20px"/> **Instagram**: [@kamal.abdllyev]([https://instagram.com/kamal_abdullayev](https://www.instagram.com/kamal.abdllyev/))  
+  - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="20px"/> **Instagram**: [@kamal.abdllyev]([https://instagram.com/kamal_abdullayev](https://www.instagram.com/kamal.abdullayev/))  
   - <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20px"/> **LinkedIn**: [Kamal Abdullayev]([https://linkedin.com/in/kamal-abdullayev](http://linkedin.com/in/kamal-abdullayevv))
 
 ---
@@ -39,15 +39,15 @@
 </p>
 
 #### 🔥 Streaks & Top Languages:
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <div style="flex: 1;">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.vercel.app?user=KamalAbdullayev0&theme=windows-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak Stats" height="200"/>
+      <img src="https://streak-stats.vercel.app?user=KamalAbdullayev0&theme=windows-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak Stats" height="400"/>
     </a>
   </div>
-  <div>
+  <div style="flex: 1;">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="400"/>
     </a>
   </div>
 </div>
