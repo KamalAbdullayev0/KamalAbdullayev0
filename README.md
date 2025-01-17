@@ -47,7 +47,7 @@
   </div>
   <div style="flex: 1;">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=windows-dark&hide_border=true&border_radius=10&mode=weekly" alt="Top Languages" height="400"/>
     </a>
   </div>
 </div>
