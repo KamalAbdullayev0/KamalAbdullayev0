@@ -25,14 +25,13 @@
   <img src="https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=bloc&logoColor=white" alt="Bloc"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/RxDart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="RxDart"/>
-  
-  <!-- iOS technologies -->
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/SwiftUI-FF6400?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/UIKit-00A0D2?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
   <img src="https://img.shields.io/badge/CoreData-0085A3?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data"/>
-  <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="ARKit"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Terminal-2E3436?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal"/>
 </p>
 
 ---
