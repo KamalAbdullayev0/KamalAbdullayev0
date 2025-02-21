@@ -12,8 +12,8 @@
 - ⚡ Fun fact: **1 + 1 = 10** (in binary 😄).
 - 📫 How to reach me:
   - <img src="https://img.icons8.com/color/48/000000/email.png" width="20px"/> **Email**: abdullayevkamal994@gmail.com  
-  - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="20px"/> **Instagram**: [@kamal.abdllyev]([https://instagram.com/kamal_abdullayev](https://www.instagram.com/kamal.abdullayev/))  
-  - <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20px"/> **LinkedIn**: [Kamal Abdullayev]([https://linkedin.com/in/kamal-abdullayev](http://linkedin.com/in/kamal-abdullayevv))
+  - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="20px"/> **Instagram**: [@kamal.abdllyev](https://www.instagram.com/kamal.abdllyev/)  
+  - <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20px"/> **LinkedIn**: [Kamal Abdullayev]([https://linkedin.com/in/kamal-abdullayevv](http://linkedin.com/in/kamal-abdullayevv))
 
 ---
 
