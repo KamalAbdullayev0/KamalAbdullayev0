@@ -85,12 +85,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-  </a>
-</p>
-
 ---
 
 #### 🔥 Streaks & Top Languages:
