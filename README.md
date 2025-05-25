@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Kamal! 👋</h1>
+<h1 align="center">Hi, I'm Kamal Abdullayev! 👋</h1>
 
 <p align="center">
-  🌟 A passionate mobile developer dedicated to building high-quality apps! 🚀
+  🚀 Passionate Mobile Developer dedicated to crafting high-quality, user-centric applications. 🌟
+  <br />
+  I enjoy transforming ideas into elegant and efficient mobile solutions.
 </p>
 
 ---
@@ -14,36 +16,66 @@
   - <img src="https://img.icons8.com/color/48/000000/email.png" width="20px"/> **Email**: abdullayevkamal994@gmail.com  
   - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="20px"/> **Instagram**: [Kamal Abdullayev](https://www.instagram.com/kamal.abdllyev/)  
   - <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20px"/> **LinkedIn**: [Kamal Abdullayev](https://www.linkedin.com/in/kamal-abdullayevv/)
+  - <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>
 
 ---
 
-### 💻 Tech Stack:
+### 🛠️ Key Skills & Technologies
+
 <p align="center">
-   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  <!-- iOS & Core -->
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/SwiftUI-FF6400?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/UIKit-00A0D2?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/CoreData-0085A3?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Terminal-2E3436?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal"/>
+  <br/>
+  <!-- Flutter & Dart -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=bloc&logoColor=white" alt="Bloc"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/RxDart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="RxDart"/>
+  <br/>
+  <!-- Backend & Tools -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Terminal-2E3436?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal"/>
+  <!-- Add Git, GitHub, etc. if you use them frequently -->
+  <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> -->
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 My GitHub Stats
 
-#### 🎯 GitHub Activity:
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <a href="https://github.com/KamalAbdullayev0">
+    <img src="https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kamal's GitHub Stats"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KamalAbdullayev0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=tokyonight&hide_border=true" alt="Kamal's Top Languages"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KamalAbdullayev0" title="View Profile">
+    <img src="https://komarev.com/ghpvc/?username=KamalAbdullayev0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
+  </a>
+     <!-- Add some space -->
+  <a href="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0" title="Top Committer in Azerbaijan">
+    <img src="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0.svg" alt="Top Committer in Azerbaijan"/>
+  </a>
+</p>
+
+---
 
 #### 🔥 Streaks & Top Languages:
 <p align="center">
