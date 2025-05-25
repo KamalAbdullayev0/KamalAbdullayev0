@@ -16,8 +16,6 @@
   - <img src="https://img.icons8.com/color/48/000000/email.png" width="20px"/> **Email**: abdullayevkamal994@gmail.com  
   - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="20px"/> **Instagram**: [Kamal Abdullayev](https://www.instagram.com/kamal.abdllyev/)  
   - <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20px"/> **LinkedIn**: [Kamal Abdullayev](https://www.linkedin.com/in/kamal-abdullayevv/)
-  - <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>
-
 ---
 
 ### 🛠️ Key Skills & Technologies
