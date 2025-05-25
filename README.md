@@ -49,7 +49,7 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <!-- GitHub Stats Card & Top Languages Card (Side-by-Side) -->
   <a href="https://github.com/KamalAbdullayev0">
     <img src="https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Kamal Abdullayev's GitHub Stats" width="445"/>
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
