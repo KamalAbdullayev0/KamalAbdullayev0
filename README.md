@@ -50,28 +50,33 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats Card & Top Languages Card (Side-by-Side) -->
   <a href="https://github.com/KamalAbdullayev0">
-    <img src="https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kamal's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Kamal Abdullayev's GitHub Stats" width="445"/>
+    <!-- Note: hide_rank=true hides the 'C' grade. Remove it if you want to show the grade. -->
   </a>
-  <br/>
   <a href="https://github.com/KamalAbdullayev0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=tokyonight&hide_border=true" alt="Kamal's Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kamal Abdullayev's Top Languages" width="360"/>
+    <!-- langs_count=8 shows up to 8 languages. Adjust as needed. -->
   </a>
 </p>
 
 <p align="center">
+  <!-- GitHub Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <!-- Set width to less than 100% for better centering aesthetics -->
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KamalAbdullayev0" title="View Profile">
+  <!-- Profile Views & Committer Badge (Centered) -->
+  <a href="https://github.com/KamalAbdullayev0" title="Profile Views">
     <img src="https://komarev.com/ghpvc/?username=KamalAbdullayev0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
   </a>
-     <!-- Add some space -->
+       <!-- Adds a bit of space between badges -->
   <a href="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0" title="Top Committer in Azerbaijan">
-    <img src="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0.svg" alt="Top Committer in Azerbaijan"/>
+    <img src="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0.svg" alt="Top Committer in Azerbaijan Badge"/>
   </a>
 </p>
 
