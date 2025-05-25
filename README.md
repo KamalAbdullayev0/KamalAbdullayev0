@@ -49,34 +49,45 @@
 
 ### 📊 My GitHub Stats
 
-<p align="left">
-  <!-- GitHub Stats Card & Top Languages Card (Side-by-Side) -->
-  <a href="https://github.com/KamalAbdullayev0">
-    <img src="https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Kamal Abdullayev's GitHub Stats" width="445"/>
-    <!-- Note: hide_rank=true hides the 'C' grade. Remove it if you want to show the grade. -->
-  </a>
-  <a href="https://github.com/KamalAbdullayev0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kamal Abdullayev's Top Languages" width="360"/>
-    <!-- langs_count=8 shows up to 8 languages. Adjust as needed. -->
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0" title="Top Committer in Azerbaijan">
+        <img src="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0.svg" alt="Top Committer in Azerbaijan Badge"/>
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <a href="https://github.com/KamalAbdullayev0" title="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=KamalAbdullayev0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-    <!-- Set width to less than 100% for better centering aesthetics -->
-  </a>
-</p>
+<br/> <!-- Adds a little vertical space -->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KamalAbdullayev0">
+        <img src="https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Kamal Abdullayev's GitHub Stats" width="100%"/>
+        <!-- hide_rank=true hides the 'C' grade. Remove if you want to show it. -->
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KamalAbdullayev0">
+        <!-- Removed layout=compact to make it potentially wider and match stats card better -->
+        <!-- Increased langs_count to potentially fill space, adjust as needed -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Kamal Abdullayev's Top Languages" width="100%"/>
+        <!-- Added card_width to top-langs for more control, adjust if needed. Default might be too narrow. -->
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <!-- Profile Views & Committer Badge (Centered) -->
-  <a href="https://github.com/KamalAbdullayev0" title="Profile Views">
-    <img src="https://komarev.com/ghpvc/?username=KamalAbdullayev0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
-  </a>
-       <!-- Adds a bit of space between badges -->
-  <a href="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0" title="Top Committer in Azerbaijan">
-    <img src="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0.svg" alt="Top Committer in Azerbaijan Badge"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
