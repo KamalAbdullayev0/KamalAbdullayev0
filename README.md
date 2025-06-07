@@ -50,13 +50,13 @@
 <table>
   <tr>
     <td align="left" width="50%">
-      <a href="https://user-badge.committers.top/azerbaijan/kamalabdllayev" title="Top Committer in Azerbaijan">
-        <img src="https://user-badge.committers.top/azerbaijan/kamalabdllayev.svg" alt="Top Committer in Azerbaijan Badge"/>
+      <a href="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0" title="Top Committer in Azerbaijan">
+        <img src="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0.svg" alt="Top Committer in Azerbaijan Badge"/>
       </a>
     </td>
     <td align="right" width="50%">
       <a href="https://github.com/kamalabdllayev" title="Profile Views">
-        <img src="https://komarev.com/ghpvc/?username=kamalabdllayev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
+        <img src="https://komarev.com/ghpvc/?username=KamalAbdullayev0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
       </a>
     </td>
   </tr>
