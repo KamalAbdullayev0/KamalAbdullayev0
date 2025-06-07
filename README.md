@@ -50,13 +50,13 @@
 <table>
   <tr>
     <td align="left" width="50%">
-      <a href="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0" title="Top Committer in Azerbaijan">
-        <img src="https://user-badge.committers.top/azerbaijan/KamalAbdullayev0.svg" alt="Top Committer in Azerbaijan Badge"/>
+      <a href="https://user-badge.committers.top/azerbaijan/kamalabdllayev" title="Top Committer in Azerbaijan">
+        <img src="https://user-badge.committers.top/azerbaijan/kamalabdllayev.svg" alt="Top Committer in Azerbaijan Badge"/>
       </a>
     </td>
     <td align="right" width="50%">
-      <a href="https://github.com/KamalAbdullayev0" title="Profile Views">
-        <img src="https://komarev.com/ghpvc/?username=KamalAbdullayev0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
+      <a href="https://github.com/kamalabdllayev" title="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=kamalabdllayev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
       </a>
     </td>
   </tr>
@@ -68,7 +68,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/KamalAbdullayev0">
-        <img src="https://github-readme-stats.vercel.app/api?username=KamalAbdullayev0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Kamal Abdullayev's GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=kamalabdllayev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Kamal Abdullayev's GitHub Stats" width="100%"/>
         <!-- hide_rank=true hides the 'C' grade. Remove if you want to show it. -->
       </a>
     </td>
@@ -76,7 +76,7 @@
       <a href="https://github.com/KamalAbdullayev0">
         <!-- Removed layout=compact to make it potentially wider and match stats card better -->
         <!-- Increased langs_count to potentially fill space, adjust as needed -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Kamal Abdullayev's Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabdllayev&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Kamal Abdullayev's Top Languages" width="100%"/>
         <!-- Added card_width to top-langs for more control, adjust if needed. Default might be too narrow. -->
       </a>
     </td>
@@ -88,12 +88,12 @@
 #### 🔥 Streaks & Top Languages:
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.vercel.app?user=KamalAbdullayev0&theme=windows-dark&hide_border=true&border_radius=6&mode=weekly" alt="GitHub Streak Stats" height="180"/>
+    <img src="https://streak-stats.vercel.app?user=kamalabdllayev&theme=windows-dark&hide_border=true&border_radius=6&mode=weekly" alt="GitHub Streak Stats" height="180"/>
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabdllayev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabdllayev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
