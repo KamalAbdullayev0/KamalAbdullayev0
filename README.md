@@ -50,8 +50,8 @@
 <table>
   <tr>
     <td align="left" width="50%">
-      <a href="https://user-badge.committers.top/azerbaijan/kamalabdllyev" title="Top Committer in Azerbaijan">
-        <img src="https://user-badge.committers.top/azerbaijan/kamalabdllyev.svg" alt="Top Committer in Azerbaijan Badge"/>
+      <a href="https://user-badge.committers.top/azerbaijan/kamalabdllayev" title="Top Committer in Azerbaijan">
+        <img src="https://user-badge.committers.top/azerbaijan/kamalabdllayev.svg" alt="Top Committer in Azerbaijan Badge"/>
       </a>
     </td>
     <td align="right" width="50%">
